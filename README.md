@@ -122,15 +122,6 @@ ExpensePro/
 
 ------------------------------------------------------------------------
 
-## Contributors
-
--   Team Member 1
--   Team Member 2
--   Team Member 3
--   Team Member 4
-
-------------------------------------------------------------------------
-
 ## License
 
 Developed for academic and learning purposes.
